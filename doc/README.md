@@ -76,3 +76,5 @@ node scratch/test_validator.mjs
 ```
 
 This runs 6 test cases covering the valid baseline, the required invalid scenarios, duplicate IDs, unknown IDs, and the cohort boundary.
+
+![website](../website.png)
